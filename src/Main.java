@@ -1,3 +1,4 @@
+import ExercicioCinco.ExercicioCinco;
 import ExercicioDois.ExercicioDois;
 import ExercicioQuatro.ExercicioQuatro;
 import ExercicioTres.ExercicioTres;
@@ -12,6 +13,7 @@ public class Main {
         ExercicioDois.executar();
         ExercicioTres.executar();
         ExercicioQuatro.executar();
+        ExercicioCinco.executar();
 
     }
 }
