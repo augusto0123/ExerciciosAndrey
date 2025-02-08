@@ -1,4 +1,5 @@
 import ExercicioDois.ExercicioDois;
+import ExercicioTres.ExercicioTres;
 import ExercicioUm.ExercicioUm;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
@@ -8,6 +9,7 @@ public class Main {
 
         ExercicioUm.executar();
         ExercicioDois.executar();
+        ExercicioTres.executar();
 
     }
 }
